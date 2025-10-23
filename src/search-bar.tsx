@@ -15,5 +15,3 @@ const Search = () => {
     )
 }
 export default Search;
-
-//https://static.thenounproject.com/png/1594157-200.png
